@@ -10,7 +10,7 @@ body{
 }
 
 main{
-    background-image: url(bg.jpg);
+    background-image: url('bg.jpg');
     width: 100%;
     position: relative;
     display: flex;
